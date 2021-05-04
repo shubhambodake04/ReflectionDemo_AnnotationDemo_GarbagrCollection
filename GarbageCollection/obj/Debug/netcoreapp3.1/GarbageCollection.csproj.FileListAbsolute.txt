@@ -1,0 +1,13 @@
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.exe
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.deps.json
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.runtimeconfig.json
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.dll
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\bin\Debug\netcoreapp3.1\GarbageCollection.pdb
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.dll
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.pdb
+C:\Users\Shubham\source\repos\ReflectionDemoProject\GarbageCollection\obj\Debug\netcoreapp3.1\GarbageCollection.genruntimeconfig.cache
